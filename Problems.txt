@@ -1,0 +1,12 @@
+Task: Top 10 E-commerce Companies in India
+
+Scrape: Company names, Approximate Evaluation,
+ Gross Merchandise Value, Customer Reviews 
+
+Sources: aajenterprises, clickpost
+
+Output: comparison table + bar chart
+
+Web Scraping Tools: Python (Requests, BeautifulSoup), Pandas, Matplotlib
+
+Source of Data: Public company listings + ranking articles
